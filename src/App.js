@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Todos from './components/Todos';
-import AddTodo from './AddTodo'
-
+import AddTodo from './AddTodo';
+//import Navbar from './components/Navbar/Navbar'
 
 
 class App extends Component {
